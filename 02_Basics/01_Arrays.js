@@ -2,7 +2,7 @@
 
 const myArr = [0, 1, 2, 3, 4, 5]                //JavaScript Arrays are resizeable
 const myHeros = ["Shaktiman", "naagraj"]       // Deep copy/Shallow Copy   / Deep Copy not change in orignal whereas shallow copy
-                                                // Changes in origanal 
+                                                // Changes in origanal .
 
 const myArr2 = new Array(1, 2, 3, 4)
 // console.log(myArr[0]);
